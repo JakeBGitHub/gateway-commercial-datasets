@@ -1,0 +1,128 @@
+_id,pid,Member Of,Publisher,Dataset Name,URL
+5f315e34a77e66a37134f66d,21aec912-444f-447d-b3c4-6791a6c82667,ALLIANCE,NHS DIGITAL,HES:Civil Registration (Deaths) bridge,https://healthdatagateway.org/detail/86d7088b-7a15-4e9a-b2b0-857a67e04650
+5f31633410d5b8a86e38eece,f3bb6a68-2c32-40a7-9a79-61a718068893,ALLIANCE,NHS DIGITAL,Mental Health Services Data Set - Community,https://healthdatagateway.org/detail/0c98200b-48b5-418a-b8d0-a7708abc1f39
+5f31633510d5b8a86e38eecf,add485fa-4c54-4a3e-8676-abe2ff4725a5,ALLIANCE,NHS DIGITAL,Mental Health Services Data Set - Currencies,https://healthdatagateway.org/detail/9b7f7994-0b9c-4809-b67d-45ae1f04ec5c
+5f31633610d5b8a86e38eed0,275ac6a4-798b-4f49-a25e-008245050bbc,ALLIANCE,NHS DIGITAL,Mental Health Services Data Set - Inpatients,https://healthdatagateway.org/detail/8eace3c2-1dc8-4708-9350-ad129b7d2bc9
+5f31633610d5b8a86e38eed1,f48ad0a1-f90c-4a81-8c04-b23f2d8baf7a,ALLIANCE,NHS DIGITAL,Mental Health Services Data Set - Service Users,https://healthdatagateway.org/detail/1d5e3b05-8ce3-4f80-ae3a-f6031ad8cf69
+5fdade7d2f320c44deb70515,696cfc9f-090d-4328-94ac-140760a77c73,ALLIANCE,NHS DIGITAL,GPES Data for Pandemic Planning and Research (COVID-19),https://healthdatagateway.org/detail/f56d5407-4a7e-420e-8479-87b075da2b39
+5ff7df2a1fb2698e819b7764,98999c67-0133-4f11-be95-b84ee5727c84,ALLIANCE,GENOMICS ENGLAND,GENOMICS ENGLAND 100K BIOINFORMATICS DATA,https://healthdatagateway.org/detail/1900af1a-bd21-4157-ac48-203eec682073
+6006b0b3dc02d6d666180c33,14c31b39-f189-4417-bd38-635268495593,ALLIANCE,GENOMICS ENGLAND,GENOMICS ENGLAND 100K NHSD LINKED DATA,https://healthdatagateway.org/detail/2d4b933d-1c8b-4fde-860e-c324454d28f9
+6006b0bfdc02d6d666180c34,ea748742-568a-46e2-b603-2fada49024e1,ALLIANCE,GENOMICS ENGLAND,GENOMICS ENGLAND 100K PHE LINKED DATA,https://healthdatagateway.org/detail/62c01293-83a5-4d4d-9d36-9d7aa2bf120f
+6006b0c1dc02d6d666180c35,4cc5ed33-3190-4f80-953b-cabd5a2b1c7c,ALLIANCE,GENOMICS ENGLAND,GENOMICS ENGLAND 100K QUICK VIEW,https://healthdatagateway.org/detail/15efea36-d022-495c-a5b6-90f51631a643
+6006b0cddc02d6d666180c36,3f2b37f1-e8f7-42e5-83c4-fc9e1c58725d,ALLIANCE,GENOMICS ENGLAND,GENOMICS ENGLAND 100K RARE DISEASE & COMMON,https://healthdatagateway.org/detail/239e8253-a997-4676-8940-16b74a004365
+600bac02d6b46552932f51b4,9a434a5c-563b-4da1-9133-9994960ade54,ALLIANCE,NHS DIGITAL,National Diabetes Audit,https://healthdatagateway.org/detail/c2e112a0-a198-46b0-9a0c-ec91edfb6839
+601010952f3a52ffa3a71865,31f0148b-f965-4136-ab39-6c5bbbf8c2d9,ALLIANCE,NHSX,The National COVID-19 Chest Imaging Database,https://healthdatagateway.org/detail/77824298-ef3b-40f7-a0a4-b6dedb2e7a02
+602b9b4031ccebfb7f93a840,86838cad-d5d3-4b65-9c37-29b0c8c36309,HUB,BREATHE,Salford Lung Study,https://healthdatagateway.org/detail/a8f5117e-7523-452f-abf3-ced72f03cb2e
+602e584bc500bd91f5d27f07,dd4629c0-14b6-4cba-8dcf-31ec5fea68bb,HUB,PIONEER,Coagulopathies & arterial/venous thrombosis in COVID patients: an OMOP dataset,https://healthdatagateway.org/detail/e22f93fb-bc08-44eb-b292-dc2baf0ad343
+602e5cbfc500bd91f5d27f0a,616c4488-65a5-4608-a187-0c6bc78b359a,HUB,DATA-CAN,Real Time Data Network (RTDN),https://healthdatagateway.org/detail/0ddcb454-2372-4180-9ba0-a7e1896d4fe2
+602e5d42c500bd91f5d27f0b,323dc330-aad9-472a-b579-ab66f5f75906,HUB,PIONEER,The impact of COVID on hospitalised patients with COPD; a dataset in OMOP,https://healthdatagateway.org/detail/07e3ac82-a38d-45f3-9933-07439f6a761d
+602e5d4ec500bd91f5d27f0c,5acfadf9-21a7-4517-a1b2-620d20469611,HUB,PIONEER,UHB 2019 Summer Society of Acute Medicine Benchmarking Audit,https://healthdatagateway.org/detail/1785cc1a-ace0-4980-8352-5977b2b72969
+602e5d6bc500bd91f5d27f0d,cacba424-6c2c-4b57-8f5b-64e92a78370a,HUB,PIONEER,Ventilatory strategies and outcomes for patients with COVID: a dataset in OMOP,https://healthdatagateway.org/detail/53b7c446-667b-409e-920e-67cb516de3ae
+602e5d8fc500bd91f5d27f0e,93582beb-e45a-47b6-aeab-d26f583e4c3b,HUB,DATA-CAN,Yorkshire Specialist Register of Cancer in Children and Young People,https://healthdatagateway.org/detail/931efe47-04eb-4ff3-aa62-97e2e4007aed
+6031eba544ae49d853eebe81,ceae4fe0-4e98-4e3c-85db-e86539aade81,HUB,PIONEER,UHB 100K Genomics patient clinical data including their acute care contacts,https://healthdatagateway.org/detail/fed0d62b-f7f7-475c-89c9-67caa374f970
+60338eb8728ddc3804b5e616,877a7275-b99d-4ed4-9691-de577e0ab49e,HUB,GUT REACTION,IBD NIHR BioResource: Case report form,https://healthdatagateway.org/detail/f88440b9-53fc-49df-82dd-9cdd3309bd36
+60338eba728ddc3804b5e617,44ca2cf8-679e-447c-a9eb-55b32159679a,HUB,GUT REACTION,IBD NIHR BioResource: Consent records,https://healthdatagateway.org/detail/3b0a3b33-dbd5-4cb0-b863-0e1fd80c9a1e
+60338ebc728ddc3804b5e618,02ddc5c9-03d4-40e4-9934-e60817ec8f3e,HUB,GUT REACTION,IBD NIHR BioResource: Contact detail,https://healthdatagateway.org/detail/ad638da8-366b-481f-995e-fc326301eb16
+60338ebe728ddc3804b5e619,b4121feb-f91b-4e20-a19b-fa49c7a5c1c1,HUB,GUT REACTION,IBD NIHR BioResource: Demographic,https://healthdatagateway.org/detail/d711d67c-7f48-4f9c-b482-ac3ed83f7990
+60338ec2728ddc3804b5e61a,18bfe765-5733-41f3-8114-0a1ec2524b5b,HUB,GUT REACTION,IBD NIHR BioResource: Health and Lifestyle Questionnaire,https://healthdatagateway.org/detail/1046b837-c4d9-4688-a06e-d7b32d37a161
+60338ec3728ddc3804b5e61b,ae1898da-7fe5-4fe0-b10d-9f06cdec1735,HUB,GUT REACTION,IBD NIHR BioResource: NHS Trust data,https://healthdatagateway.org/detail/2d6e8e68-2fc9-4b9c-a517-c5c5677af225
+60338ec4728ddc3804b5e61c,3c749cfc-4008-4916-b64f-969d6a754c0f,HUB,GUT REACTION,IBD NIHR BioResource: SNP chip data,https://healthdatagateway.org/detail/df3cc57d-08ae-4e81-ae79-283d71cf8d95
+60338ec5728ddc3804b5e61d,7dee2bd6-733a-4b2e-a942-7f9eaf8ebbc2,HUB,GUT REACTION,IBD NIHR BioResource: SNP imputation data,https://healthdatagateway.org/detail/3bb25cba-b4dc-47f1-ab5e-b63f89500612
+60338ec7728ddc3804b5e61e,f2af20f9-af84-40ce-8a07-7d095948653e,HUB,GUT REACTION,IBD NIHR BioResource: Sample holding,https://healthdatagateway.org/detail/9d4f445e-f81e-45d7-bd83-7e9f68199b4f
+60338ec8728ddc3804b5e61f,a406d06b-350e-4392-ab4e-b1012e422a34,HUB,GUT REACTION,IBD Registry,https://healthdatagateway.org/detail/05eadf79-02a7-4c1f-b1be-93694172a9b3
+603391d3728ddc3804b5e682,cd20517c-2f75-40e9-9ee8-563d32624b55,HUB,GUT REACTION,Wellcome Sanger Institute: Whole Exome Sequencing,https://healthdatagateway.org/detail/f88fa262-525a-4d8a-94bd-cb6f5e7efbf7
+6034d2189b0a6e8d2b871511,3f71bef5-c5a2-400c-a482-2ad30b29a240,HUB,DATA-CAN,Children’s Kidney Cancers - Great Ormond Street Hospital,https://healthdatagateway.org/detail/df23aabd-3e5f-4fc2-aad6-af990cff6f19
+603773f6886c6f290a1ce600,ce4582a8-0985-46c6-b95f-29a5de862d4a,HUB,DATA-CAN,Comprehensive Patient Records for Cancer Outcomes,https://healthdatagateway.org/detail/a337845e-1dde-445b-90cf-91d8b825e3a5
+6038bf629ecacb57a30f03b6,a9018475-452b-4864-bbc3-80eda2067820,HUB,PIONEER,Clinical response thresholds (acuity) in acutely unwell patients: onset-outcome,https://healthdatagateway.org/detail/391ab58c-3412-4fa0-96f6-fdd5ae380b86
+6038bfde9ecacb57a30f03b7,38ff49e2-dffa-4103-87a8-386f9f424d22,HUB,PIONEER,"Deeply phenotyped sepsis patients within hospital: onset, treatments & outcomes",https://healthdatagateway.org/detail/273e091c-d0b3-4529-9cd2-4bc1a1b6195a
+6038bfe09ecacb57a30f03b8,16a09f1b-3654-4ec3-9913-fb70cb1e2364,HUB,PIONEER,"Deeply-phenotyped hospital COVID patients: severity, acuity, therapies, outcomes",https://healthdatagateway.org/detail/730b3e54-1f59-4c07-b5d6-e6b63e4dda35
+6038bfed9ecacb57a30f03b9,ddf7f82f-b453-442d-b562-bb0157593831,HUB,PIONEER,"Demography, interventions & outcomes of patients with Cerebrovascular Disease",https://healthdatagateway.org/detail/a9b50e33-9974-4635-8e52-9c9b3cb87eb2
+6038bff79ecacb57a30f03ba,36886b21-12ff-45e7-82bc-fb5308c12450,HUB,INSIGHT,"Diabetic Eye Screening: the Birmingham, Solihull and Black Country Data Set",https://healthdatagateway.org/detail/56c3aabb-cb99-4da9-a6ed-3212c02e6f20
+6038c1939ecacb57a30f03bb,00b897c7-d50d-486a-af1b-bd94821b58f7,HUB,DATA-CAN,Leeds-IQVIA Collaboration,https://healthdatagateway.org/detail/2b40a784-79ea-4403-a4bd-0950a7a36a6c
+6038c2d09ecacb57a30f03bc,b5439bc5-8141-4a13-a024-a6db2003b40e,HUB,DATA-CAN,National Cancer TRE,https://healthdatagateway.org/detail/34f9be53-2445-439b-8ca4-f151359d7e46
+6038c3519ecacb57a30f03bd,0eb789bb-0047-46ac-83ff-631f31e98da0,HUB,PIONEER,"OMOP dataset: Hospital COVID patients: severity, acuity, therapies, outcomes",https://healthdatagateway.org/detail/06dee089-8c10-4a8b-aa94-7cb699dc3c80
+6038c3e79ecacb57a30f03bf,bf3fe16c-5377-4571-b5a5-7aa7e796594c,HUB,PIONEER,Risk and outcomes of coagulopathies in acutely unwell adults,https://healthdatagateway.org/detail/81c54c5a-ceb1-487c-820a-437b4dd002ca
+6038c4629ecacb57a30f03c1,86632207-1e57-4272-b178-ea069a13cae1,HUB,PIONEER,The acute presentation of pregnant women to non-maternity Emergency departments,https://healthdatagateway.org/detail/0942304f-8b91-4258-af9c-3a1801c7e79f
+6038c46c9ecacb57a30f03c2,cfa1ef13-8ae0-4827-8a0f-9d2df5244725,HUB,PIONEER,The impact of ethnicity and multi-morbidity on C19 hospitalised outcomes,https://healthdatagateway.org/detail/3fc555e1-3e36-46dc-bef1-2d94d560bcb2
+6038c4729ecacb57a30f03c3,780bf7d0-9ee1-4641-a74f-dc148e361970,HUB,PIONEER,The impact of hospitalised patients with COPD: from admission to outcome,https://healthdatagateway.org/detail/8fac682b-96be-4e21-a2a9-5fe66c3b35ff
+6038c4819ecacb57a30f03c4,5bf9bf39-3cd7-4a54-994b-9914405f945e,HUB,PIONEER,UHB 2020 Winter Society of Acute Medicine Benchmarking Audit,https://healthdatagateway.org/detail/1584af1e-9683-4727-8c9b-9bea8beaa68d
+6038c4839ecacb57a30f03c5,21fb56d1-726f-40e3-a998-e4b34ba3e46f,HUB,INSIGHT,UHB Eye Image Dataset Release 001,https://healthdatagateway.org/detail/7f4fb30c-2a09-4d75-bed2-114751e06723
+6038c4a09ecacb57a30f03c7,1a66dbc1-4f06-455c-85fc-68b372575cad,HUB,PIONEER,Ventilation strategies for patients on intensive care,https://healthdatagateway.org/detail/f8a268c1-831c-4c80-b62c-e254a572b9a0
+60396cd39d482a45f48eaf26,bf392537-82b4-4d71-ace0-e7bea3b167fb,HUB,INSIGHT,Moorfields AMD Dataset Release 002,https://healthdatagateway.org/detail/7aab11a7-6fff-4e4a-a480-b48ccc6bad87
+60396cd69d482a45f48eaf27,6bfe44ef-9532-4986-b8a2-9c2cda4a89cc,HUB,INSIGHT,Moorfields Eye Image Dataset Release 001,https://healthdatagateway.org/detail/208f79dc-2294-4370-8f16-0d0f7bec9d10
+603cc7d35250307a72411bc0,c853b41b-fbd1-4896-b0fb-85303109fec4,HUB,DISCOVER NOW,North West London Coordinate My Care (NWL CMC),https://healthdatagateway.org/detail/850f99cb-f091-4f10-86ee-06a3eaa7df53
+603cc7fa5250307a72411bc1,1fe1e7bb-ef6e-4d89-9824-bb560afc81f0,HUB,DISCOVER NOW,North West London Patient Index (NWL PI),https://healthdatagateway.org/detail/6a390359-1e26-470f-a4e5-bfb31a5ed643
+603d32782d88ebacb8be8043,9711e6cc-426c-4cef-afb3-64382f8d7ed4,HUB,BREATHE,International Severe Asthma Registry,https://healthdatagateway.org/detail/5c7ae78d-53e6-427d-a3a9-52538f8342dc
+603d34182d88ebacb8be8044,721db252-8069-433d-bb6d-4b44b243d364,HUB,DISCOVER NOW,North West London Accident and Emergency Data (NWL A&E),https://healthdatagateway.org/detail/5b9b7964-615b-438a-b151-d2f884a24aee
+603d34192d88ebacb8be8045,0d5a40e6-52c0-43c4-bd9f-f2a803cc8ff6,HUB,DISCOVER NOW,North West London Acute Patient level Data (NWL Acute PLD),https://healthdatagateway.org/detail/f2268d4e-0149-4913-9832-0399960eecd4
+603d34202d88ebacb8be8046,788857b5-6a5b-4ec2-825e-d965e291cf45,HUB,DISCOVER NOW,North West London Admitted Patient Care Data (NWL APC),https://healthdatagateway.org/detail/adce90ad-d576-4c98-9de9-dca19f7f4d41
+603d34222d88ebacb8be8047,de9cf0f5-b26a-4363-9df8-3628a4aa6b6e,HUB,DISCOVER NOW,North West London Adult Social Care Data (NWL ASC),https://healthdatagateway.org/detail/535a0983-6618-4211-a939-ae2edfe26f9a
+603d34242d88ebacb8be8048,ed08c844-343e-44fa-a02d-3ad5ecf25184,HUB,DISCOVER NOW,North West London COVID-19 Patient Level Situation Report (NWL COVID19 SITREP),https://healthdatagateway.org/detail/04f22c93-53df-440a-a71a-50d6827450bc
+603d34262d88ebacb8be8049,65dad445-ed81-4005-9f5a-4f8a7164043e,HUB,DISCOVER NOW,North West London Community Data (NWL COM),https://healthdatagateway.org/detail/ce896b89-5f4a-407c-bb10-7eec51089458
+603d342a2d88ebacb8be804a,75638d2c-556a-46b6-afcc-7ab425b34679,HUB,DISCOVER NOW,North West London High Cost Drugs Data (NWL HCD),https://healthdatagateway.org/detail/fc704af0-368b-4dd0-866f-753b6d1dccf8
+603d34362d88ebacb8be804b,602d8093-6a1e-42cf-a89c-8bf0d47ecc8c,HUB,DISCOVER NOW,North West London Integrated Care Record (NWL ICR),https://healthdatagateway.org/detail/f6e25ba4-4f7a-436e-a5f9-f0257d45a612
+603d34392d88ebacb8be804c,2d3ec99a-a087-4355-8539-5a22cef58910,HUB,DISCOVER NOW,North West London Mental Health Data (NWL MH),https://healthdatagateway.org/detail/5e19a471-64e3-4aa4-ac56-6901d5e39e28
+603d343b2d88ebacb8be804d,9f1df859-f1d0-4f1e-959e-affd05138a25,HUB,DISCOVER NOW,North West London Outpatient Care Data (NWL OP),https://healthdatagateway.org/detail/3d51dc99-c44f-44ff-bdab-da205c5e394e
+603d343d2d88ebacb8be804e,2c5f3ef6-53f8-42e6-a077-8718261df026,HUB,DISCOVER NOW,North West London Pathology (NWL PATH),https://healthdatagateway.org/detail/38194ca7-57f5-40ff-b463-900e306cd40f
+603d34422d88ebacb8be804f,0f930154-0a0e-4bef-9464-59e657b904d6,HUB,DISCOVER NOW,North West London Primary Care Events Data (NWL PCE),https://healthdatagateway.org/detail/a9f4a852-a1f2-4041-bb33-3a50e6c43f8d
+603d34442d88ebacb8be8050,0fb33df6-ab36-4170-9fad-1eaf35a3a812,HUB,DISCOVER NOW,North West London Primary Care Prescriptions Data (NWL PCP),https://healthdatagateway.org/detail/48182af6-2ccd-44b2-92d5-69cc140e7d67
+603e2cc023a831f00dc75ffe,bb8de9d2-cc38-4c40-b104-ffd167f64f76,HUB,BREATHE,Prospective Observation of Fibrosis in the Lung Clinical Endpoints,https://healthdatagateway.org/detail/0715a950-3999-46d8-a646-6496866638a1
+603e2db823a831f00dc75fff,8604bcdc-235a-4c70-b29b-1617396815e6,HUB,BREATHE,Wales Asthma Observatory,https://healthdatagateway.org/detail/333d92ca-3a32-41bd-8b16-96aee2dc85b1
+60405f0881f768a66436e775,722be723-04bd-48b4-923b-e7d393f0c22b,HUB,BREATHE,Children's Health in London and Luton (CHILL),https://healthdatagateway.org/detail/de4b46f5-1591-442d-a896-6e0d91657c01
+6040b1b2805925b3b932511e,e22ddf52-7f9e-4072-ae61-cb722461b37d,HUB,BREATHE,"Extended Cohort for E-health, Environment and DNA (EXCEED)",https://healthdatagateway.org/detail/9ca6e8d2-98d2-4757-84e1-287585400e55
+6040b1de805925b3b932511f,6277abc6-c039-4886-8489-d4a2cdb8190c,HUB,BREATHE,Genetics of Asthma Severity & Phenotypes,https://healthdatagateway.org/detail/67cd0c2b-3944-4bc4-a03a-4081ee67847f
+6040b231805925b3b9325120,cc6f926a-90cf-4083-84e7-131d1e63813b,HUB,BREATHE,Its Not JUST Idiopathic pulmonary fibrosis Study (INJUSTIS),https://healthdatagateway.org/detail/8665b36e-f9a5-4062-ba56-d33fecfe3376
+6040b23f805925b3b9325121,01c3d08c-6948-4059-a027-3437e4f5d53b,HUB,BREATHE,Leicester Respiratory Research Database,https://healthdatagateway.org/detail/6bca5d27-5b98-45e7-b834-6980ba5db5c9
+6040b3ed805925b3b9325123,b8bcda0b-3c90-4382-aeb7-b01fc27e58fa,HUB,BREATHE,UK BiLEVE Consortium Dataset,https://healthdatagateway.org/detail/73462506-32c5-43a0-963e-06d67e967b97
+605eb18e6759c44f740384ad,5542cadc-11a4-4957-bbdd-8a6c46bcfb87,ALLIANCE,PUBLIC HEALTH SCOTLAND,ECOSS (-/+VE tested patients only),https://healthdatagateway.org/detail/bb2cb65c-a599-4fdc-bdfa-908d4433e333
+605eb7406759c4be580384b1,e600dae2-a83c-4b7a-8d23-af4ac31ca374,ALLIANCE,PUBLIC HEALTH SCOTLAND,National Records of Scotland (NRS) - Deaths Data,https://healthdatagateway.org/detail/d441348a-6121-4e77-b4fb-d14966dc7a3e
+60653f2868308c803da38d3e,59fb436a-f8c3-4d4a-bc76-d4a02904b078,ALLIANCE,HEALTH AND SOCIAL CARE NORTHERN IRELAND,Mortality (Death registration),https://healthdatagateway.org/detail/e1fea1a6-976b-4460-babd-a53d1c49f282
+606694f47a9cf143e660141c,43636f80-27fd-43d0-8556-d0a2de0cd819,OTHER,VIKING GENES,VIKING GENES,https://healthdatagateway.org/detail/de794427-edf8-4c9e-b089-9d7b56d01373
+606d2380e8f8f142d7989d51,31920b14-d114-410f-8255-522e6451c44e,ALLIANCE,BARTS HEALTH,DENDRITE Dataset,https://healthdatagateway.org/detail/29de7178-dcf3-4859-bd96-ca6d944db5f8
+606fc47f7c2ba3366e14deeb,080a90e4-4bc6-4153-a4c6-c120eef5ba94,ALLIANCE,NHS DIGITAL,COVID19 Vaccination Adverse Reaction,https://healthdatagateway.org/detail/a9317016-d985-4957-ac3a-2427722544a4
+606fc4897c2ba3f42414deec,98372a87-f3e6-475d-be12-46c0f9587413,ALLIANCE,NHS DIGITAL,COVID19 Vaccination Status,https://healthdatagateway.org/detail/a10eeef3-8338-4ec1-b146-8f72a369b841
+60711528a5498c532f6dd6f4,3b378225-48e1-45fa-b62d-fc4ed4b39bec,HUB,BREATHE,Asthma self-management behaviour in Bangladesh and Pakistan,https://healthdatagateway.org/detail/1cb397d5-a86d-4354-b1f7-565b7ef5054b
+607115f8a5498c58736dd6f7,70e37f44-5c3e-4c83-a42a-89b3476d1d45,ALLIANCE,SAIL,COVID-19 Consolidated Deaths,https://healthdatagateway.org/detail/8bbcf9f4-a3c4-4f26-aa0e-c5c46457afa3
+60711608a5498c02ce6dd6f9,dc22db56-8791-4e96-9ce6-6b6a58b1241f,ALLIANCE,SAIL,COVID-19 Shielded People list,https://healthdatagateway.org/detail/05a0baf4-72ea-4e02-b4fb-64c37bb1eb0e
+60711617a5498c7f696dd6fa,594cfe55-96e3-45ff-874c-2c0006eeb881,ALLIANCE,SAIL,COVID-19 Symptom Tracker Dataset,https://healthdatagateway.org/detail/78ce070c-84db-4676-81c5-0c672f4e12e3
+6071162ca5498c56326dd6fc,f5f6d882-163d-4ef1-a53e-000fba409480,ALLIANCE,SAIL,COVID-19 Test results,https://healthdatagateway.org/detail/57726e95-afe2-4d62-ab1e-81d90eb0ec1d
+60711799a5498c0d056dd6ff,cf9bc775-1db7-44e4-9a16-317d5bb063a2,HUB,BREATHE,Computational Framework to Interpret Chest X-rays and Diagnose Pneumonia,https://healthdatagateway.org/detail/bbdb6bc3-bbf7-4b3e-805a-e16d73b899a7
+607117e9a5498c68db6dd700,fede31c6-a9c5-4cfb-9866-9b58b2199cff,ALLIANCE,NHS DIGITAL,Covid-19 Second Generation Surveillance System,https://healthdatagateway.org/detail/b15760f3-e188-446f-aee5-c38bd3859dd4
+607117f5a5498c71206dd703,1789286a-deaf-49df-88cd-660e92934af6,ALLIANCE,SAIL,Critical Care Dataset,https://healthdatagateway.org/detail/1d46f920-e253-4e7d-a72a-843d068d3c69
+60711911a5498c4f246dd707,75c4dcb8-33bf-43f4-b2bb-db51b6621b2c,ALLIANCE,SAIL,Emergency Department Data Set,https://healthdatagateway.org/detail/3abe6b38-e479-4eb3-87d6-ef4803ff88f9
+607119e2a5498c50616dd70a,33fc3ffd-aa4c-4a16-a32f-0c900aaea3d2,ALLIANCE,SAIL,GP dataset - Welsh Primary Care,https://healthdatagateway.org/detail/a806b304-1008-4fea-887a-15e49c42161d
+60711a8aa5498c44fe6dd70b,ed131fee-0635-4613-a453-a383d5dd7cec,ALLIANCE,SAIL,Healthcare Workers Risk Assessment,https://healthdatagateway.org/detail/a8bb670a-b45b-48a6-8e4d-9e8f61de4f5b
+60711a9fa5498cd3276dd70c,3ddfccc3-ba32-4653-a999-966b8d6c412f,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Accident and Emergency,https://healthdatagateway.org/detail/9a9eb7dd-c9fd-4132-963c-c0459a9b21d8
+60711ab0a5498c5aa06dd70d,2b6409db-a669-4bef-9fd5-39c2b6f8d5e9,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Admitted Patient Care,https://healthdatagateway.org/detail/89f76cff-03dd-47a1-b6fc-29e42b78e7a5
+60711ab8a5498c12d06dd70e,80564a6b-1458-41de-a131-772eb93c0509,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Critical Care,https://healthdatagateway.org/detail/34d2310f-c5f2-42c4-be1a-31c1ad579013
+60711ac5a5498c02f56dd70f,d4362d41-0838-4f41-bba3-c3268312c444,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Outpatients,https://healthdatagateway.org/detail/41f84b0f-0621-4e21-937b-cc05c183166b
+60711b52a5498c4c1c6dd710,add6226b-0f21-439a-84a6-51dc26cdc425,ALLIANCE,SAIL,Intensive Care National Audit and Research Centre - Covid19,https://healthdatagateway.org/detail/2550f814-0849-4d19-b83e-edef46b157fb
+60711bcba5498cc0e96dd711,11d3cf0f-ae5d-42f4-a756-b98c3eff46bc,ALLIANCE,NHS DIGITAL,MSDS (Maternity Services Data Set),https://healthdatagateway.org/detail/fd296ed6-6e12-49ab-9e5f-f40428a47b02
+60711bdca5498c7c5d6dd712,a0c27454-8cbe-418f-bdae-a85d5e92e9d4,ALLIANCE,SAIL,Maternity Indicators Dataset,https://healthdatagateway.org/detail/46e30817-b19e-40f2-9b06-9611b2985148
+60711c6ca5498c7b916dd714,fa2ec63d-f76d-4555-8fc1-f4bd66e3c60d,ALLIANCE,NHS DIGITAL,Mental Health Services Data Set,https://healthdatagateway.org/detail/6a63513f-92cb-43ce-b0dd-fdb1113150c9
+60711ceea5498c5a2e6dd715,3d6b69dc-cb3c-4b9a-bdea-a798e7d5b5cf,ALLIANCE,SAIL,NHS 111 Dataset,https://healthdatagateway.org/detail/22173802-db99-475e-b95e-d69798734077
+60711f46a5498c51316dd717,fc24482c-0f9b-445f-af7a-8598627c3b15,ALLIANCE,SAIL,ONS 2011 Census Wales (CENW),https://healthdatagateway.org/detail/aa1fe6a9-79cc-4afc-bd38-ec0d5e4fc195
+60711f68a5498c2f5f6dd718,d331159b-b286-4ab9-8b36-db39123ec229,ALLIANCE,SAIL,Outpatient Dataset,https://healthdatagateway.org/detail/68b34d8f-debe-445b-9ebd-a5a05f277d13
+60711fbfa5498ca1e56dd71a,4c33a5d2-164c-41d7-9797-dc2b008cc852,ALLIANCE,SAIL,Patient Episode Dataset for Wales,https://healthdatagateway.org/detail/2ef8bfd7-3edb-49e0-a1eb-edc181c03e1d
+60711feda5498c2cba6dd71b,f8be6d46-61de-4ed3-b127-76cdf92209d0,ALLIANCE,NHS DIGITAL,Personal Demographic Service,https://healthdatagateway.org/detail/0970a6b2-d142-4c18-ae6e-23e21779e22c
+60712275a5498c89a76dd724,d415a5c5-8432-4a81-937f-12135ade6de7,ALLIANCE,SAIL,Welsh Ambulance Services NHS Trust,https://healthdatagateway.org/detail/45499ef9-daca-4a88-8493-c3c1a92960d0
+60712280a5498c45d16dd726,50ef6443-ed4b-40f9-97fb-1cfd53be6579,ALLIANCE,SAIL,Welsh Dispensing Dataset,https://healthdatagateway.org/detail/d27f265d-8931-4f76-83a2-cb47189a53f0
+60745d29e8b21910272ff0cf,8f486c3d-9504-4a0e-8e24-ab96f057fc9e,ALLIANCE,PUBLIC HEALTH SCOTLAND,NHS Scotland General Practice (GP) Contact Data - Subset,https://healthdatagateway.org/detail/b87dda75-59ac-4b33-97c0-439b4771babe
+6075a0617470380fd13d325a,98cda353-0011-45b2-80ca-4ed24cd084bf,ALLIANCE,PUBLIC HEALTH SCOTLAND,General Acute Inpatient and Day Case - Scottish Morbidity Record (SMR01),https://healthdatagateway.org/detail/6c5c67d5-b7f6-4126-ac5c-be2bf45eb1cc
+6075a1fd7470380fd13d3260,811a54fb-8b79-442f-8e28-a725a0561a15,ALLIANCE,PUBLIC HEALTH SCOTLAND,SICSAG Daily (Scottish Intensive Care Audit Group),https://healthdatagateway.org/detail/b6fbcdaf-6732-4b76-b8ca-3388f67bce47
+6075a1ff7470380fd13d3261,6f8182d2-2993-400d-829d-b52cdb324bf3,ALLIANCE,PUBLIC HEALTH SCOTLAND,SICSAG Episodes (Scottish Intensive Care Audit Group),https://healthdatagateway.org/detail/65c641db-3271-4f96-8cb4-94cf9e6379b4
+6075a26b7470380fd13d3266,55a744c4-a2d4-4ea0-b0eb-1af6e1465383,HUB,PIONEER,"Ventilatory strategies, medications and outcomes for patients with COVID",https://healthdatagateway.org/detail/ac5aba4a-3e34-4e44-b8e7-1e9410e7ff0c
+60780e13a2aac55838b0a459,bcbc41cb-99f7-482e-ba3d-561164abbd4e,HUB,BREATHE,COPDMAP Consortium,https://healthdatagateway.org/detail/1450ff1a-4526-4a6e-b9e9-25969878449d
+60780eb7a2aac55838b0a45e,b0a68ee7-742d-45dc-aae9-4be4e1655fc0,HUB,BREATHE,Deriving and validating a clinical prediction rule for the diagnosis of asthma in primary care,https://healthdatagateway.org/detail/842e8c5c-a298-4942-9ac4-f95d1a5f87b3
+60780ec6a2aac55838b0a464,25bc9862-5b6c-4dda-80b2-46642d9e518a,HUB,BREATHE,Early Pandemic Evaluation and Enhanced Surveillance of COVID-19 (EAVE II),https://healthdatagateway.org/detail/0c78d1cf-4ba6-44f4-adcf-16c15142d8fb
+60780f4ea2aac55838b0a472,b850e56c-5c5b-413e-b829-743772053978,HUB,BREATHE,Idiopathic Pulmonary Fibrosis (IPF) Genome-wide Association Study,https://healthdatagateway.org/detail/fb50af29-4aa6-4071-9300-bd2d57c850b0
+60781029a2aac55838b0a4ad,b0979e07-3331-408f-853b-5eeba80ce8f9,ALLIANCE,HQIP,National Paediatric Diabetes Audit - Parent and Patient Recorded Experience measures,https://healthdatagateway.org/detail/00ffee70-43d6-4a81-8568-32b0b6d9e39c
+607810dba2aac55838b0a4c2,fb6d98c5-e41d-4804-bb28-839556e0f657,HUB,BREATHE,SpiroMeta Consortium Dataset,https://healthdatagateway.org/detail/e172870f-37c4-4103-afae-8a60cae43ccb
+60781115a2aac55838b0a4c7,9f98a674-12f6-42f4-b1a5-322b3b75eef1,HUB,BREATHE,UK Lung Volume Reduction Surgery,https://healthdatagateway.org/detail/db89a123-0402-4962-8a8f-78557ba4d84f
+6078111ca2aac55838b0a4c8,cffcf30d-cedb-421b-a5dc-6726633cb99a,HUB,BREATHE,Unified Cohorts Research Network,https://healthdatagateway.org/detail/274238a8-ec06-4ee4-83ae-a419a925d43b
+6078112aa2aac55838b0a4c9,2454a964-be58-4d1f-8f9a-ffae9db9129c,HUB,BREATHE,Vitamin D supplementation meta-analyses,https://healthdatagateway.org/detail/62fef8d2-c397-43c3-b14a-69cf89423887
+6082c3d1b4f439de7e197bd2,48adf432-9b66-4d03-a25e-008fbbb24f56,ALLIANCE,UNIVERSITY OF NOTTINGHAM,Asymptomatic COVID-19 in Education (ACE) Cohort,
+608be160b6546831a306a7a9,5616e0a6-22f1-43a5-a2bd-dcecfa2f3b70,ALLIANCE,NHS DIGITAL,Community Services Data Set,
+60913c4217ef3253131d3619,86f46be3-bc29-4820-8363-de6530a94c6f,ALLIANCE,NHS DIGITAL,Diagnostic Imaging Dataset,
+60929c0430ba4ed08ef0c03a,25b93812-191f-49bb-bbd0-782fb85b2bd2,ALLIANCE,HQIP,National Emergency Laparotomy Audit - Patient Audit Dataset,
+6098ebd5400d7d9f4f3a98ea,bcf6e5ce-986d-4b84-9c9c-69de966e8bbd,ALLIANCE,NHS DIGITAL,Improving Access to Psychological Therapies Data Set,

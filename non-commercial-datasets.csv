@@ -1,0 +1,41 @@
+_id,pid,Member Of,Publisher,Dataset Name,URL
+5fe4135f336bdd466633dc14,8cbb73e2-a2c4-4caf-8dcd-6ac3795bb996,OTHER,The University of Cambridge,COMPARE,https://healthdatagateway.org/detail/84b6d047-2a05-4fc0-8537-809dbb3d18ed
+5fe41ac3336bdd08e533dc15,c1fa9b47-a954-4587-a0c2-bae0f3ec2b9b,OTHER,The University of Cambridge,INTERVAL,https://healthdatagateway.org/detail/d58d02f1-47c2-44fc-b16e-4f6cbbb46e62
+602e5d8fc500bd91f5d27f0e,93582beb-e45a-47b6-aeab-d26f583e4c3b,HUB,DATA-CAN,Yorkshire Specialist Register of Cancer in Children and Young People,https://healthdatagateway.org/detail/931efe47-04eb-4ff3-aa62-97e2e4007aed
+603968549d482a45f48eaf21,255d70c6-9a50-4b62-adc0-44216606a216,ALLIANCE,AVON LONGITUDINAL STUDY OF PARENTS AND CHILDREN,Avon Longitudinal Study of Parents and Children,https://healthdatagateway.org/detail/71b8569c-b582-499c-85aa-909b825f6ea6
+603e2db823a831f00dc75fff,8604bcdc-235a-4c70-b29b-1617396815e6,HUB,BREATHE,Wales Asthma Observatory,https://healthdatagateway.org/detail/333d92ca-3a32-41bd-8b16-96aee2dc85b1
+605eafe76759c404eb0384ac,6064c3a9-e4f1-411b-8181-f1fdca2ab2b8,NCS,OFFICE FOR NATIONAL STATISTICS,Census-Mortality-Hospital Episodes Linked Data,https://healthdatagateway.org/detail/b6e4172d-2efd-467c-b357-c90e4ccb5d9e
+605eb18e6759c44f740384ad,5542cadc-11a4-4957-bbdd-8a6c46bcfb87,ALLIANCE,PUBLIC HEALTH SCOTLAND,ECOSS (-/+VE tested patients only),https://healthdatagateway.org/detail/bb2cb65c-a599-4fdc-bdfa-908d4433e333
+605eb7406759c4be580384b1,e600dae2-a83c-4b7a-8d23-af4ac31ca374,ALLIANCE,PUBLIC HEALTH SCOTLAND,National Records of Scotland (NRS) - Deaths Data,https://healthdatagateway.org/detail/d441348a-6121-4e77-b4fb-d14966dc7a3e
+605eb74e6759c4ba140384b2,dca0c95b-ae7d-4163-8c3b-a881f779df02,ALLIANCE,PUBLIC HEALTH SCOTLAND,National Records of Scotland (NRS) - Stillbirth Data,https://healthdatagateway.org/detail/5b5deab2-2a83-4eef-83a8-13853beee94c
+605eb9026759c485eb0384b3,1fc57971-5af5-499e-a500-4ffbb087f0c4,ALLIANCE,PUBLIC HEALTH SCOTLAND,RAPID (Hospital Stay Level Data),https://healthdatagateway.org/detail/cca8ff71-fc4e-4544-9345-e87f6c0b3f2d
+6063e906d152872a2cbc9008,628e9ad9-28c5-4d58-9ec5-04a63be9b4cf,NCS,OFFICE FOR NATIONAL STATISTICS,Covid-19 Infection Survey,https://healthdatagateway.org/detail/67fa61c8-7973-4eb4-999c-fbed084d4445
+6063ecb7d15287c832bc9017,54095c0e-6faa-4de4-ac26-e2c7ef3cba5c,NCS,OFFICE FOR NATIONAL STATISTICS,Linked Census and death occurrences,https://healthdatagateway.org/detail/f1f17da0-0249-45a8-8491-ba52b43fbf33
+606fc9a07c2ba3b18514deee,0b630200-1e7c-4b19-ad53-bcc8863f7ade,NCS,OFFICE FOR NATIONAL STATISTICS,Labour Force Survey (Household),https://healthdatagateway.org/detail/f25c8ba2-aa2f-4644-b017-b0a2aa76af65
+606fc9ab7c2ba3c86314deef,4ac15572-fe9a-46d3-860d-a46b616181f7,NCS,OFFICE FOR NATIONAL STATISTICS,Labour Force Survey (Longitudinal),https://healthdatagateway.org/detail/28bb6308-013f-47d3-8c4b-74720ad3901d
+606fc9bb7c2ba3343b14def0,8c60a308-1e47-4a0c-8b69-9259f05338cb,NCS,OFFICE FOR NATIONAL STATISTICS,Labour Force Survey (Person),https://healthdatagateway.org/detail/82b0be0d-3bd3-4a4e-a37d-be4c3b8a42f7
+606fce647c2ba33d7114def3,a325f33e-bac8-49af-896f-1e025941dae8,NCS,OFFICE FOR NATIONAL STATISTICS,Public Health Research Database (PHRD),https://healthdatagateway.org/detail/c425c244-3406-4914-acf5-b471b4891ced
+606fcf387c2ba302f514def4,bcfd3b49-f7f0-489e-bc1b-bcce0bd261f2,ALLIANCE,PUBLIC HEALTH SCOTLAND,Scottish Covid-19 Vaccination Data,https://healthdatagateway.org/detail/d713a287-51b6-4951-a479-9a491348c83f
+606fcf477c2ba3002f14def5,e54d35a6-2e7c-422d-a4a5-a7da930b08f2,ALLIANCE,PUBLIC HEALTH SCOTLAND,Scottish Stillbirth and Infant Death Survey,https://healthdatagateway.org/detail/8697d105-4b32-4e7f-9998-8df4250cb3e5
+60711a9fa5498cd3276dd70c,3ddfccc3-ba32-4653-a999-966b8d6c412f,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Accident and Emergency,https://healthdatagateway.org/detail/9a9eb7dd-c9fd-4132-963c-c0459a9b21d8
+60711ab0a5498c5aa06dd70d,2b6409db-a669-4bef-9fd5-39c2b6f8d5e9,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Admitted Patient Care,https://healthdatagateway.org/detail/89f76cff-03dd-47a1-b6fc-29e42b78e7a5
+60711ab8a5498c12d06dd70e,80564a6b-1458-41de-a131-772eb93c0509,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Critical Care,https://healthdatagateway.org/detail/34d2310f-c5f2-42c4-be1a-31c1ad579013
+60711ac5a5498c02f56dd70f,d4362d41-0838-4f41-bba3-c3268312c444,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Outpatients,https://healthdatagateway.org/detail/41f84b0f-0621-4e21-937b-cc05c183166b
+60711c6ca5498c7b916dd714,fa2ec63d-f76d-4555-8fc1-f4bd66e3c60d,ALLIANCE,NHS DIGITAL,Mental Health Services Data Set,https://healthdatagateway.org/detail/6a63513f-92cb-43ce-b0dd-fdb1113150c9
+60745b49e8b21910272ff0c7,a05aef07-c3fa-4331-905a-6b6f58eac3d5,ALLIANCE,PUBLIC HEALTH SCOTLAND,2011 Census variables (and variable breakdowns),https://healthdatagateway.org/detail/c4426ec2-fbf0-45b2-9f68-0477527257a0
+60745b7ae8b21910272ff0c8,8e739a01-bcfa-4b75-b7f8-e694ee185f8d,NCS,OFFICE FOR NATIONAL STATISTICS,Business Impact of COVID-19 Survey (BICS),https://healthdatagateway.org/detail/410d78d5-2955-4a40-86a7-ce1071e4749d
+60745bc4e8b21910272ff0c9,2f66bcf9-e626-4e8d-bc6e-2d3958e709d8,NCS,OFFICE FOR NATIONAL STATISTICS,Census 2011 E&W - Household structure for COVID-19 models,https://healthdatagateway.org/detail/0ac9438e-da8d-4488-bdc6-8285d1401b1d
+60745bd3e8b21910272ff0ca,dec04153-f595-41ce-9d7e-5ef0c3fe8289,ALLIANCE,PUBLIC HEALTH SCOTLAND,Child Health Systems Programme - First Visit,https://healthdatagateway.org/detail/3cc60b9a-8654-417d-bc1a-b72a7462a980
+60745bd4e8b21910272ff0cb,2c31cb1c-2b3d-40c5-b8d4-bf0b81f089b4,ALLIANCE,PUBLIC HEALTH SCOTLAND,Child Health Systems Programme - School,https://healthdatagateway.org/detail/fcd366e3-b814-4a4a-873f-0ac7cfc75eb7
+60745bfae8b21910272ff0cc,e253257c-48c2-491b-b3b9-205161a16a7e,NCS,OFFICE FOR NATIONAL STATISTICS,Coronavirus and the social impacts on Great Britain,https://healthdatagateway.org/detail/575514e3-6e8f-4218-bd75-ff32742abc52
+60745bfbe8b21910272ff0cd,e1a6c1e1-1cec-49cd-aea0-37d4ff56435d,NCS,OFFICE FOR NATIONAL STATISTICS,Covid Immunisation,https://healthdatagateway.org/detail/eb2ecd0e-d48e-464c-a147-fd25e2543ffe
+60745d29e8b21910272ff0cf,8f486c3d-9504-4a0e-8e24-ab96f057fc9e,ALLIANCE,PUBLIC HEALTH SCOTLAND,NHS Scotland General Practice (GP) Contact Data - Subset,https://healthdatagateway.org/detail/b87dda75-59ac-4b33-97c0-439b4771babe
+60745e10e8b21910272ff0d1,c027d0ca-7c7d-4864-b4dd-8040f4020fbb,ALLIANCE,PUBLIC HEALTH SCOTLAND,Scottish Immunisation Recall System (SIRS),https://healthdatagateway.org/detail/b05a0353-81ac-4e24-b7f6-ecee71272981
+6075a0617470380fd13d325a,98cda353-0011-45b2-80ca-4ed24cd084bf,ALLIANCE,PUBLIC HEALTH SCOTLAND,General Acute Inpatient and Day Case - Scottish Morbidity Record (SMR01),https://healthdatagateway.org/detail/6c5c67d5-b7f6-4126-ac5c-be2bf45eb1cc
+6075a0d57470380fd13d325c,d47c809f-3da8-4f8a-b1ee-258d21aad530,ALLIANCE,PUBLIC HEALTH SCOTLAND,Maternity Inpatient and Day Case - Scottish Morbidity Record (SMR02),https://healthdatagateway.org/detail/e6a61d31-d13f-4804-b24c-9966cc40dcc6
+6075a0e67470380fd13d325d,24de9d1a-1f48-4c10-b8fc-a3bd7449e191,ALLIANCE,PUBLIC HEALTH SCOTLAND,Mental Health Inpatient and Day Case - Scottish Morbidity Record (SMR04),https://healthdatagateway.org/detail/b9f460e1-cee9-4f52-b464-26b421886939
+6075a1a97470380fd13d325e,04cb9964-54fb-4529-b09b-735c3daa1c7b,ALLIANCE,PUBLIC HEALTH SCOTLAND,Outpatient Appointments and Attendances - Scottish Morbidity Record (SMR00),https://healthdatagateway.org/detail/dada485d-2dbd-4e17-ade6-94512210e909
+6075a1d57470380fd13d325f,22e3943e-edb5-44a1-9e4e-22b0f7a31767,ALLIANCE,PUBLIC HEALTH SCOTLAND,Prescribing Information System (PIS),https://healthdatagateway.org/detail/b5ecf3e9-f910-4713-81e0-acd3ca6c1cd9
+6075a2097470380fd13d3262,05e6752e-3a0b-4809-aa14-207b4761ef60,ALLIANCE,PUBLIC HEALTH SCOTLAND,Scotland Accident and Emergency,https://healthdatagateway.org/detail/142f3390-95eb-49be-bc8c-1a752a7d308e
+6075a20a7470380fd13d3263,81c53293-ef64-4507-8fcf-2a254dc19936,ALLIANCE,PUBLIC HEALTH SCOTLAND,Scottish Birth Record (SBR),https://healthdatagateway.org/detail/af434b05-52a7-4ff1-92f5-e2dd38a574aa
+60913c4217ef3253131d3619,86f46be3-bc29-4820-8363-de6530a94c6f,ALLIANCE,NHS DIGITAL,Diagnostic Imaging Dataset,
