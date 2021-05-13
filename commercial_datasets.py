@@ -191,6 +191,7 @@ def main():
 
     tools_df = pd.DataFrame(tools_flattened_list)
 
+    # Export Datasets
     tools_df.to_csv("gateway-datasets.csv", index=False)
 
     get_commercial_datasets(tools_df, "commercial-datasets.csv")
