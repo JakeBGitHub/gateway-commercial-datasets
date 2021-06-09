@@ -5,11 +5,12 @@ import pandas as pd
 import numpy as np
 from collections import MutableMapping
 from decouple import config
+import time
 
 mongodb_user = config("mongodb_user", default="")
 mongodb_password = config("mongodb_password", default="")
 
-
+DATE = time.strftime("%d%m%Y")
 DATABASE = os.getenv("DATABASE", "production")
 DATABASE_USER = os.getenv("DATABASE_USER", mongodb_user)
 DATABASE_PASSWORD = os.getenv("DATABASE_PASSWORD", mongodb_password)
@@ -192,11 +193,11 @@ def main():
     tools_df = pd.DataFrame(tools_flattened_list)
 
     # Export Datasets
-    tools_df.to_csv("gateway-datasets.csv", index=False)
+    tools_df.to_csv("outputs/gateway-datasets-{}.csv".format(DATE), index=False)
 
-    get_commercial_datasets(tools_df, "commercial-datasets.csv")
+    get_commercial_datasets(tools_df, "outputs/commercial-datasets-{}.csv".format(DATE))
 
-    not_for_profit_datasets(tools_df, "non-commercial-datasets.csv")
+    not_for_profit_datasets(tools_df, "outputs/non-commercial-datasets-{}.csv".format(DATE))
 
 
 if __name__ == "__main__":

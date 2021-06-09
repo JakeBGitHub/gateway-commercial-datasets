@@ -76,11 +76,8 @@ _id,pid,Member Of,Publisher,Dataset Name,URL
 6040b3ed805925b3b9325123,b8bcda0b-3c90-4382-aeb7-b01fc27e58fa,HUB,BREATHE,UK BiLEVE Consortium Dataset,https://healthdatagateway.org/detail/73462506-32c5-43a0-963e-06d67e967b97
 605eb18e6759c44f740384ad,5542cadc-11a4-4957-bbdd-8a6c46bcfb87,ALLIANCE,PUBLIC HEALTH SCOTLAND,ECOSS (-/+VE tested patients only),https://healthdatagateway.org/detail/bb2cb65c-a599-4fdc-bdfa-908d4433e333
 605eb7406759c4be580384b1,e600dae2-a83c-4b7a-8d23-af4ac31ca374,ALLIANCE,PUBLIC HEALTH SCOTLAND,National Records of Scotland (NRS) - Deaths Data,https://healthdatagateway.org/detail/d441348a-6121-4e77-b4fb-d14966dc7a3e
-60653f2868308c803da38d3e,59fb436a-f8c3-4d4a-bc76-d4a02904b078,ALLIANCE,HEALTH AND SOCIAL CARE NORTHERN IRELAND,Mortality (Death registration),https://healthdatagateway.org/detail/e1fea1a6-976b-4460-babd-a53d1c49f282
 606694f47a9cf143e660141c,43636f80-27fd-43d0-8556-d0a2de0cd819,OTHER,VIKING GENES,VIKING GENES,https://healthdatagateway.org/detail/de794427-edf8-4c9e-b089-9d7b56d01373
 606d2380e8f8f142d7989d51,31920b14-d114-410f-8255-522e6451c44e,ALLIANCE,BARTS HEALTH,DENDRITE Dataset,https://healthdatagateway.org/detail/29de7178-dcf3-4859-bd96-ca6d944db5f8
-606fc47f7c2ba3366e14deeb,080a90e4-4bc6-4153-a4c6-c120eef5ba94,ALLIANCE,NHS DIGITAL,COVID19 Vaccination Adverse Reaction,https://healthdatagateway.org/detail/a9317016-d985-4957-ac3a-2427722544a4
-606fc4897c2ba3f42414deec,98372a87-f3e6-475d-be12-46c0f9587413,ALLIANCE,NHS DIGITAL,COVID19 Vaccination Status,https://healthdatagateway.org/detail/a10eeef3-8338-4ec1-b146-8f72a369b841
 60711528a5498c532f6dd6f4,3b378225-48e1-45fa-b62d-fc4ed4b39bec,HUB,BREATHE,Asthma self-management behaviour in Bangladesh and Pakistan,https://healthdatagateway.org/detail/1cb397d5-a86d-4354-b1f7-565b7ef5054b
 607115f8a5498c58736dd6f7,70e37f44-5c3e-4c83-a42a-89b3476d1d45,ALLIANCE,SAIL,COVID-19 Consolidated Deaths,https://healthdatagateway.org/detail/8bbcf9f4-a3c4-4f26-aa0e-c5c46457afa3
 60711608a5498c02ce6dd6f9,dc22db56-8791-4e96-9ce6-6b6a58b1241f,ALLIANCE,SAIL,COVID-19 Shielded People list,https://healthdatagateway.org/detail/05a0baf4-72ea-4e02-b4fb-64c37bb1eb0e
@@ -90,7 +87,6 @@ _id,pid,Member Of,Publisher,Dataset Name,URL
 607117e9a5498c68db6dd700,fede31c6-a9c5-4cfb-9866-9b58b2199cff,ALLIANCE,NHS DIGITAL,Covid-19 Second Generation Surveillance System,https://healthdatagateway.org/detail/b15760f3-e188-446f-aee5-c38bd3859dd4
 607117f5a5498c71206dd703,1789286a-deaf-49df-88cd-660e92934af6,ALLIANCE,SAIL,Critical Care Dataset,https://healthdatagateway.org/detail/1d46f920-e253-4e7d-a72a-843d068d3c69
 60711911a5498c4f246dd707,75c4dcb8-33bf-43f4-b2bb-db51b6621b2c,ALLIANCE,SAIL,Emergency Department Data Set,https://healthdatagateway.org/detail/3abe6b38-e479-4eb3-87d6-ef4803ff88f9
-607119e2a5498c50616dd70a,33fc3ffd-aa4c-4a16-a32f-0c900aaea3d2,ALLIANCE,SAIL,GP dataset - Welsh Primary Care,https://healthdatagateway.org/detail/a806b304-1008-4fea-887a-15e49c42161d
 60711a8aa5498c44fe6dd70b,ed131fee-0635-4613-a453-a383d5dd7cec,ALLIANCE,SAIL,Healthcare Workers Risk Assessment,https://healthdatagateway.org/detail/a8bb670a-b45b-48a6-8e4d-9e8f61de4f5b
 60711a9fa5498cd3276dd70c,3ddfccc3-ba32-4653-a999-966b8d6c412f,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Accident and Emergency,https://healthdatagateway.org/detail/9a9eb7dd-c9fd-4132-963c-c0459a9b21d8
 60711ab0a5498c5aa06dd70d,2b6409db-a669-4bef-9fd5-39c2b6f8d5e9,ALLIANCE,NHS DIGITAL,Hospital Episode Statistics Admitted Patient Care,https://healthdatagateway.org/detail/89f76cff-03dd-47a1-b6fc-29e42b78e7a5
